@@ -486,10 +486,3 @@ Ideas for future versions:
 
 ---
 
-## Author and license
-
-**Author:** add your name and links here.
-
-**License:** no license has been chosen yet. Add a `LICENSE` file before publishing if you want others to reuse the code (MIT is a common choice for student projects).
-
-Built with FastAPI, OpenCV, NumPy, scikit-image, scikit-learn, Pillow, tifffile, Matplotlib, ReportLab, React, Vite, Tailwind CSS, Recharts and Lucide icons.
