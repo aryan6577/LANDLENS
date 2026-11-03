@@ -471,18 +471,4 @@ Free instances sleep and lose their files on restart, so uploaded images and his
 
 ---
 
-## Roadmap
-
-Ideas for future versions:
-
-- Supervised land-cover classifier trained on a free labelled dataset (such as EuroSAT)
-- More spectral indices (NDWI, NDBI) for multispectral and SWIR bands
-- Cloud and shadow masking
-- Georeferenced outputs (GeoTIFF masks, shapefile or GeoJSON of changed regions)
-- Tile-based processing for very large images
-- User accounts and a database for permanent online storage
-- Automated tests and continuous integration
-- Time-series analysis across more than two dates
-
----
 
